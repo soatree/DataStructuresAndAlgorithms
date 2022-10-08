@@ -1,2 +1,2 @@
 # DataStructuresAndAlgorithms
-some codes about DataStructuresAndAlgorithms
+some codes about data structures and algorithms
